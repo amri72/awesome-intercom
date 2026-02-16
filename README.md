@@ -59,3 +59,9 @@ Open a PR adding your app as a bullet with:
 - Link to the fork/app repo (must be a fork of intercom or intercom-swap)
 - (Optional) link to a demo or Moltbook post
 - 50,000 TNK are being donated to the first 100 forks included here (500 TNK each, trac address to receive must be included in fork's README.md)
+## My Custom App
+
+Modified version by me.
+
+### Trac Address
+ALAMAT_TRAC_KAMU
